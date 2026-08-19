@@ -1,38 +1,7 @@
 {
-  "items": [
-    {
-      "description": "We present each dataset with 8 columns that summarize important information of the datasets: Year, Scene Type, Sensor Type, Sensor Name, Data Modalities, Extra Data, Images/Scenes, and Application.\nIn Figure 2, we illustrate the variability of datasets presented in this paper, and how the type of sensor produces distinct depth results, changing reliability and sparsity.\n\nData is organized here by \"Application Type\", \"Scene Type\", and \"Year\" in this order. Since it is a long list, we also have it available on our website in a filterable way.\nWe also discuss the different applications for each sensor type and explain how these sensors work in our paper. We also identify influents and trending datasets in each field, which are also detailed in our paper.",
-      "items": [],
-      "title": "Information"
-    },
-    {
-      "description": "15/07/2022 : Added 28 new datasets after revising other 606 papers. The majority of datasets included in this revision contain saliency maps and are from the \"Body\" category.",
-      "items": [],
-      "title": "Update"
-    },
-    {
-      "description": "Please cite our paper if you used our survey in your work:",
-      "items": [],
-      "title": "Citation"
-    },
-    {
-      "description": "We made available a website with filtering and ordering options to help you find the best datasets for your work. We encourage you to check it out in our page.",
-      "items": [],
-      "title": "Website"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "RGB-D Datasets"
-    },
-    {
-      "description": "This repositary has the following license:\n",
-      "items": [],
-      "title": "License"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T11:41:45.908Z",
+    "last_updated": "2026-08-19T11:40:40.908Z",
     "original_repository": "alelopes/awesome-rgbd-datasets",
     "original_repository_sha": "9fa580e66306810032f3090003857f5d73653e49",
     "enhanced_repository": "enhansome/enhansome-rgbd-datasets",
