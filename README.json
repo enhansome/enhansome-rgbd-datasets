@@ -1,7 +1,374 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "0",
+          "description": "No Name Defined - Synthetic SOR, and SOE Aerial Color, Depth Normal Maps, Edges, Semantic Labels 15 scenes (144000 images) 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279281814,
+            "language": null,
+            "last_commit": "2021-01-12T14:28:34Z",
+            "owner": "sian-wusidi",
+            "repo": "largescaleuavdataset",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "1",
+          "description": "DDAD LiDAR Luminar-H2 LIDAR SOR, and SOE Driving Color, Deph Instance Segmentation 150 scenes (12650 frames) 2020/2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 249788493,
+            "language": "Python",
+            "last_commit": "2021-05-12T02:15:47Z",
+            "owner": "TRI-ML",
+            "repo": "DDAD",
+            "stars": 560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2",
+          "description": "Woodscape LiDAR Velodyne HDL-64E SOR, and SOE Driving Color, IMU, GPS, Depth instance segmentation, 2d object detection 50 sequences (100k frames) 2019/2020/2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 199622246,
+            "language": "Python",
+            "last_commit": "2023-08-26T16:16:46Z",
+            "owner": "valeoai",
+            "repo": "WoodScape",
+            "stars": 712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "4",
+          "description": "EventScape - Synthetic SOR, and SOE Driving Color, Depth Semantic Segmentation, Navigation Data (Position, orientation, angular velocity, etc) 758 sequences 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 339687745,
+            "language": "Python",
+            "last_commit": "2024-04-01T10:44:32Z",
+            "owner": "uzh-rpg",
+            "repo": "rpg_ramnet",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "9",
+          "description": "Hypersim - Synthetic SOR, and SOE Indoor Color, Depth Normal Maps, Instance Segmentation, Diffuse Reflectance 461 scenes (77400 images) 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313435134,
+            "language": "Python",
+            "last_commit": "2026-01-09T22:34:45Z",
+            "owner": "apple",
+            "repo": "ml-hypersim",
+            "stars": 2040
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "12",
+          "description": "Replica Structured Light SOR, and SOE Indoor Color, Depth, IMU, Grayscale Camera Normal Maps, Instance Segmentation 18 scenes 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169771349,
+            "language": "C++",
+            "last_commit": "2024-07-22T12:41:43Z",
+            "owner": "facebookresearch",
+            "repo": "Replica-Dataset",
+            "stars": 1315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "28",
+          "description": "GTA-SfM Dataset - Synthetic SOR, and SOE Outdoor Color, Depth Optical Flow 76000 images 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 205393358,
+            "language": "Python",
+            "last_commit": "2021-10-31T09:03:26Z",
+            "owner": "HKUST-Aerial-Robotics",
+            "repo": "Flow-Motion-Depth",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "29",
+          "description": "GL3D SCS MVS SOR Aerial Color, Depth 543 scenes (125623 images) 2018",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 160284420,
+            "language": "Python",
+            "last_commit": "2023-05-06T12:47:38Z",
+            "owner": "lzx551402",
+            "repo": "GL3D",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "39",
+          "description": "BlendedMVS - Synthetic SOR In-the-wild Color, Depth 113 scenes (17000 images) 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 223414731,
+            "language": null,
+            "last_commit": "2025-09-08T02:21:12Z",
+            "owner": "YoYo000",
+            "repo": "BlendedMVS",
+            "stars": 684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "45",
+          "description": "ODS Dataset SCS MiniPolar 360 Camera (MVS) SOR Indoor Color, Depth Normal Maps 6 indoor areas (50000 images) 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 176597309,
+            "language": "Python",
+            "last_commit": "2019-04-22T03:42:16Z",
+            "owner": "pokonglai",
+            "repo": "ods-net",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "103",
+          "description": "NYUv2-OC++ Structured Light Kinect v1 SOE Indoor Color, Depth, accelerometer occlusion boundaries maps 1449 images from NYUv2 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272026191,
+            "language": "Python",
+            "last_commit": "2020-11-28T15:22:24Z",
+            "owner": "dulucas",
+            "repo": "Displacement_Field",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "120",
+          "description": "Name Not Defined - Synthetic Medical Medical Color, Depth - 100 irises (72000 images) 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 241364308,
+            "language": "Python",
+            "last_commit": "2025-01-05T20:23:37Z",
+            "owner": "dpbenalcazar",
+            "repo": "irisDepth",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "146",
+          "description": "DiverseDepth Dataset SCS MVS Only Depth In-the-wild Color 320000 images 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 250404834,
+            "language": "Python",
+            "last_commit": "2022-07-26T02:23:57Z",
+            "owner": "YvanYin",
+            "repo": "DiverseDepth",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "147",
+          "description": "HRWSI SCS MVS Only Depth In-the-wild Color, Depth 20778 images 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 246725009,
+            "language": "Python",
+            "last_commit": "2023-07-19T11:23:00Z",
+            "owner": "KexianHust",
+            "repo": "Structure-Guided-Ranking-Loss",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "148",
+          "description": "Holopix50k SCS MVS Only Depth In-the-wild Color - 49368 images 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 246948939,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-07-07T20:32:50Z",
+            "owner": "LeiaInc",
+            "repo": "holopix50k",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "149",
+          "description": "DualPixels Dataset SCS MVS Only Depth In-the-wild Color, Depth - 3190 images 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151619717,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-21T19:58:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "153",
+          "description": "IRS Dataset - Synthetic Only Depth Indoor Color, Depth Normal Maps 100025 images 2019/2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 226058081,
+            "language": "Python",
+            "last_commit": "2024-06-02T14:23:37Z",
+            "owner": "HKBU-HPML",
+            "repo": "IRS",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "169",
+          "description": "No Name Defined TOF Kinect v2 Human Activities Full Body Color, Depth 800 frames for each person (26 people) 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219900768,
+            "language": "Python",
+            "last_commit": "2020-05-20T03:58:26Z",
+            "owner": "sfu-gruvi-3dv",
+            "repo": "deep_human",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "201",
+          "description": "3D Ken Burns - Synthetic 3D Ken Burns (Other) In-the-wild Color, Depth Normal Maps 46 sequences 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222578525,
+            "language": "Python",
+            "last_commit": "2026-06-01T16:29:31Z",
+            "owner": "sniklaus",
+            "repo": "3d-ken-burns",
+            "stars": 1569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "206",
+          "description": "DUTLF-Depth - Lytro light field (MVS) SOE In-The-Wild Color, Depth Saliency Mask 1200 images 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 199555155,
+            "language": "Python",
+            "last_commit": "2020-12-30T04:48:28Z",
+            "owner": "DUT-IIAU-OIP-Lab",
+            "repo": "DMRA_RGBD-SOD",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "207",
+          "description": "ReDWeb-S - MVS SOE In-The-Wild Color, Depth Saliency Mask 3179 images 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 302290247,
+            "language": "Python",
+            "last_commit": "2023-11-01T06:19:16Z",
+            "owner": "nnizhang",
+            "repo": "SMAC",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "208",
+          "description": "COTS - Intel Realsense D435 (MVS) SOE Isolated Objects / Focussed on Objects Color, Depth Saliency Mask 120 images 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 175815546,
+            "language": null,
+            "last_commit": "2023-07-20T07:46:44Z",
+            "owner": "dylanseychell",
+            "repo": "COTSDataset",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "229",
+          "description": "UESTC TOF Kinect v2 Human Activities Full Body Color, Depth - 25600 sequences 2018",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134578317,
+            "language": "Python",
+            "last_commit": "2018-09-21T08:20:02Z",
+            "owner": "HRI-UESTC",
+            "repo": "CFM-HRI-RGB-D-action-database",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "230",
+          "description": "DDAD LiDAR Luminar-H2 LIDAR SOR, and SOE Driving Color, Deph Instance Segmentation 150 scenes (12650 frames) 2020/2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 249788493,
+            "language": "Python",
+            "last_commit": "2021-05-12T02:15:47Z",
+            "owner": "TRI-ML",
+            "repo": "DDAD",
+            "stars": 560
+          }
+        }
+      ],
+      "title": "RGB-D Datasets"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T11:44:07.382Z",
+    "last_updated": "2026-08-24T14:32:48.267Z",
     "original_repository": "alelopes/awesome-rgbd-datasets",
     "original_repository_id": 452124276,
     "original_repository_sha": "9fa580e66306810032f3090003857f5d73653e49",
