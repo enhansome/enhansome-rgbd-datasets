@@ -75,7 +75,7 @@
             "last_commit": "2026-01-09T22:34:45Z",
             "owner": "apple",
             "repo": "ml-hypersim",
-            "stars": 2040
+            "stars": 2041
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-07-22T12:41:43Z",
             "owner": "facebookresearch",
             "repo": "Replica-Dataset",
-            "stars": 1315
+            "stars": 1316
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38614
+            "stars": 38616
           }
         },
         {
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:21:52.600Z",
+    "last_updated": "2026-08-25T11:44:21.962Z",
     "original_repository": "alelopes/awesome-rgbd-datasets",
     "original_repository_id": 452124276,
     "original_repository_sha": "9fa580e66306810032f3090003857f5d73653e49",
