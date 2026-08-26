@@ -135,7 +135,7 @@
             "last_commit": "2025-09-08T02:21:12Z",
             "owner": "YoYo000",
             "repo": "BlendedMVS",
-            "stars": 684
+            "stars": 685
           }
         },
         {
@@ -237,10 +237,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-21T19:58:51Z",
+            "last_commit": "2026-08-25T18:30:01Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38616
+            "stars": 38623
           }
         },
         {
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:44:21.962Z",
+    "last_updated": "2026-08-26T11:45:18.742Z",
     "original_repository": "alelopes/awesome-rgbd-datasets",
     "original_repository_id": 452124276,
     "original_repository_sha": "9fa580e66306810032f3090003857f5d73653e49",
