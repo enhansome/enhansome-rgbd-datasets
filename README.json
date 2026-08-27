@@ -75,7 +75,7 @@
             "last_commit": "2026-01-09T22:34:45Z",
             "owner": "apple",
             "repo": "ml-hypersim",
-            "stars": 2041
+            "stars": 2043
           }
         },
         {
@@ -237,10 +237,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T18:30:01Z",
+            "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38623
+            "stars": 38630
           }
         },
         {
@@ -368,9 +368,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:45:18.742Z",
-    "original_repository": "alelopes/awesome-rgbd-datasets",
-    "original_repository_id": 452124276,
+    "last_updated": "2026-08-27T12:01:33.319Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 452124276,
+      "language": null,
+      "last_commit": "2022-07-31T01:25:27Z",
+      "owner": "alelopes",
+      "repo": "awesome-rgbd-datasets",
+      "stars": 291
+    },
     "original_repository_sha": "9fa580e66306810032f3090003857f5d73653e49",
     "enhanced_repository": "enhansome/enhansome-rgbd-datasets",
     "enhanced_repository_description": null,
