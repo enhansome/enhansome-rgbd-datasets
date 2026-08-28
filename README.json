@@ -16,7 +16,8 @@
             "owner": "sian-wusidi",
             "repo": "largescaleuavdataset",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "TRI-ML",
             "repo": "DDAD",
             "stars": 560
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "valeoai",
             "repo": "WoodScape",
             "stars": 713
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "uzh-rpg",
             "repo": "rpg_ramnet",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "apple",
             "repo": "ml-hypersim",
             "stars": 2043
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "facebookresearch",
             "repo": "Replica-Dataset",
             "stars": 1316
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "HKUST-Aerial-Robotics",
             "repo": "Flow-Motion-Depth",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "lzx551402",
             "repo": "GL3D",
             "stars": 314
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "YoYo000",
             "repo": "BlendedMVS",
             "stars": 685
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "pokonglai",
             "repo": "ods-net",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "dulucas",
             "repo": "Displacement_Field",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "dpbenalcazar",
             "repo": "irisDepth",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "YvanYin",
             "repo": "DiverseDepth",
             "stars": 224
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "KexianHust",
             "repo": "Structure-Guided-Ranking-Loss",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "LeiaInc",
             "repo": "holopix50k",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -240,8 +255,9 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38631
-          }
+            "stars": 38641
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "HKBU-HPML",
             "repo": "IRS",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "sfu-gruvi-3dv",
             "repo": "deep_human",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "sniklaus",
             "repo": "3d-ken-burns",
             "stars": 1569
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "DUT-IIAU-OIP-Lab",
             "repo": "DMRA_RGBD-SOD",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "nnizhang",
             "repo": "SMAC",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "dylanseychell",
             "repo": "COTSDataset",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "HRI-UESTC",
             "repo": "CFM-HRI-RGB-D-action-database",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         },
         {
           "node_type": "item",
@@ -361,14 +384,15 @@
             "owner": "TRI-ML",
             "repo": "DDAD",
             "stars": 560
-          }
+          },
+          "first_seen": "2026-08-28T21:26:36.832Z"
         }
       ],
       "title": "RGB-D Datasets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:02:14.295Z",
+    "last_updated": "2026-08-28T21:26:36.832Z",
     "original_repository_info": {
       "archived": false,
       "id": 452124276,
