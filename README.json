@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A large-scale simulated UAV dataset with automatically generated ground truth.",
+            "homepage": null,
             "id": 279281814,
             "language": null,
+            "license": null,
             "last_commit": "2021-01-12T14:28:34Z",
+            "open_issues": 2,
             "owner": "sian-wusidi",
             "repo": "largescaleuavdataset",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dense Depth for Autonomous Driving (DDAD) dataset. ",
+            "homepage": null,
             "id": 249788493,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-05-12T02:15:47Z",
+            "open_issues": 17,
             "owner": "TRI-ML",
             "repo": "DDAD",
-            "stars": 560
+            "stars": 560,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -42,12 +52,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The repository containing tools and information about the WoodScape dataset.",
+            "homepage": "https://woodscape.valeo.com/dataset",
             "id": 199622246,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-26T16:16:46Z",
+            "open_issues": 74,
             "owner": "valeoai",
             "repo": "WoodScape",
-            "stars": 713
+            "stars": 713,
+            "topics": [
+              "dataset"
+            ]
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -58,12 +75,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and datasets for the paper \"Combining Events and Frames using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction\" (RA-L, 2021)",
+            "homepage": null,
             "id": 339687745,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-04-01T10:44:32Z",
+            "open_issues": 18,
             "owner": "uzh-rpg",
             "repo": "rpg_ramnet",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -74,12 +96,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding",
+            "homepage": null,
             "id": 313435134,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-09T22:34:45Z",
+            "open_issues": 0,
             "owner": "apple",
             "repo": "ml-hypersim",
-            "stars": 2043
+            "stars": 2043,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -90,12 +117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Replica Dataset v1 as published in https://arxiv.org/abs/1906.05797 .",
+            "homepage": null,
             "id": 169771349,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-22T12:41:43Z",
+            "open_issues": 67,
             "owner": "facebookresearch",
             "repo": "Replica-Dataset",
-            "stars": 1316
+            "stars": 1317,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -106,12 +138,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the project page of the paper \"Flow-Motion and Depth Network for Monocular Stereo and Beyond''",
+            "homepage": "https://arxiv.org/abs/1909.05452",
             "id": 205393358,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-10-31T09:03:26Z",
+            "open_issues": 2,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "Flow-Motion-Depth",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -122,12 +159,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GL3D (Geometric Learning with 3D Reconstruction): a large-scale database created for 3D reconstruction and geometry-related learning problems",
+            "homepage": null,
             "id": 160284420,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-06T12:47:38Z",
+            "open_issues": 17,
             "owner": "lzx551402",
             "repo": "GL3D",
-            "stars": 314
+            "stars": 314,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -138,12 +180,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks",
+            "homepage": null,
             "id": 223414731,
             "language": null,
+            "license": null,
             "last_commit": "2025-09-08T02:21:12Z",
+            "open_issues": 29,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
-            "stars": 685
+            "stars": 685,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -154,12 +201,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation of the paper \"Real-time panoramic depth maps from omni-directional stereo images for 6 DoF videos in virtual reality\".",
+            "homepage": null,
             "id": 176597309,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-04-22T03:42:16Z",
+            "open_issues": 1,
             "owner": "pokonglai",
             "repo": "ods-net",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -170,12 +222,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of paper \"Predicting Sharp and Accurate Occlusion Boundaries in Monocular Depth Estimation Using Displacement Fields\" (CVPR2020)",
+            "homepage": null,
             "id": 272026191,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-11-28T15:22:24Z",
+            "open_issues": 2,
             "owner": "dulucas",
             "repo": "Displacement_Field",
-            "stars": 120
+            "stars": 120,
+            "topics": [
+              "accurate-occlusion-boundaries",
+              "cvpr2020",
+              "depth-estimation",
+              "depth-estimator",
+              "displacement-field",
+              "nyuv2-oc"
+            ]
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -186,12 +250,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 3D Iris Scanner from a Single Image using Convolutional Neural Networks",
+            "homepage": null,
             "id": 241364308,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-05T20:23:37Z",
+            "open_issues": 1,
             "owner": "dpbenalcazar",
             "repo": "irisDepth",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -202,12 +271,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The code and data of DiverseDepth",
+            "homepage": null,
             "id": 250404834,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-26T02:23:57Z",
+            "open_issues": 5,
             "owner": "YvanYin",
             "repo": "DiverseDepth",
-            "stars": 224
+            "stars": 224,
+            "topics": [
+              "dataset",
+              "depth-estimation",
+              "depth-prediction",
+              "generalization-on-diverse-scenes",
+              "monocular-depth-estimation",
+              "single-image-depth-prediction"
+            ]
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -218,12 +299,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Structure-Guided Ranking Loss for Single Image Depth Prediction",
+            "homepage": null,
             "id": 246725009,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-19T11:23:00Z",
+            "open_issues": 4,
             "owner": "KexianHust",
             "repo": "Structure-Guided-Ranking-Loss",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "cvpr2020",
+              "monocular-depth-estimation"
+            ]
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -234,12 +323,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Holopix50k: A Large-Scale In-the-wild Stereo Image Dataset",
+            "homepage": null,
             "id": 246948939,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-07T20:32:50Z",
+            "open_issues": 7,
             "owner": "LeiaInc",
             "repo": "holopix50k",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -250,12 +344,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Research",
+            "homepage": "https://research.google",
             "id": 151619717,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T09:11:14Z",
+            "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38641
+            "stars": 38643,
+            "topics": [
+              "ai",
+              "machine-learning",
+              "research"
+            ]
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -266,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IRS: A Large Synthetic Indoor Robotics Stereo Dataset for Disparity and Surface Normal Estimation",
+            "homepage": null,
             "id": 226058081,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-02T14:23:37Z",
+            "open_issues": 0,
             "owner": "HKBU-HPML",
             "repo": "IRS",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -282,12 +390,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for iccv2019 paper \"A Neural Network for Detailed Human Depth Estimation from a Single Image\"",
+            "homepage": null,
             "id": 219900768,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-05-20T03:58:26Z",
+            "open_issues": 8,
             "owner": "sfu-gruvi-3dv",
             "repo": "deep_human",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -298,12 +411,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an implementation of 3D Ken Burns Effect from a Single Image using PyTorch",
+            "homepage": null,
             "id": 222578525,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-01T16:29:31Z",
+            "open_issues": 12,
             "owner": "sniklaus",
             "repo": "3d-ken-burns",
-            "stars": 1569
+            "stars": 1569,
+            "topics": [
+              "cuda",
+              "cupy",
+              "deep-learning",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -314,12 +438,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and Dataset for ICCV 2019 paper. \"Depth-induced Multi-scale Recurrent Attention Network for Saliency Detection\".",
+            "homepage": null,
             "id": 199555155,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-12-30T04:48:28Z",
+            "open_issues": 0,
             "owner": "DUT-IIAU-OIP-Lab",
             "repo": "DMRA_RGBD-SOD",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -330,12 +459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ReDWeb-S: a large-scale challenging dataset for RGB-D Salient Object Detection.",
+            "homepage": null,
             "id": 302290247,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-11-01T06:19:16Z",
+            "open_issues": 5,
             "owner": "nnizhang",
             "repo": "SMAC",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -346,12 +480,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Multipurpose RGB-D Dataset for Inpainting and Saliency Applications",
+            "homepage": "https://ieeexplore.ieee.org/document/9340352",
             "id": 175815546,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-07-20T07:46:44Z",
+            "open_issues": 0,
             "owner": "dylanseychell",
             "repo": "COTSDataset",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "blending",
+              "computer-vision",
+              "dataset",
+              "inpainting",
+              "saliency",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -362,12 +508,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UESTC RGB-D Varying-view action database. This multi-view action database is captured by Kinect v2.0 with modality of RGB video, 3D skeleton sequences and depth map sequences.",
+            "homepage": null,
             "id": 134578317,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-09-21T08:20:02Z",
+            "open_issues": 2,
             "owner": "HRI-UESTC",
             "repo": "CFM-HRI-RGB-D-action-database",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         },
@@ -378,12 +529,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dense Depth for Autonomous Driving (DDAD) dataset. ",
+            "homepage": null,
             "id": 249788493,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-05-12T02:15:47Z",
+            "open_issues": 17,
             "owner": "TRI-ML",
             "repo": "DDAD",
-            "stars": 560
+            "stars": 560,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
         }
@@ -392,15 +548,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:26:36.832Z",
+    "last_updated": "2026-08-29T04:46:46.241Z",
     "original_repository_info": {
       "archived": false,
+      "description": "This repository contains information for the paper \"A Survey on RGB-D Datasets\" and is a collaborative initiative to update the datasets list faster.",
+      "homepage": "https://alexandre-lopes.com/rgbd-datasets/",
       "id": 452124276,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2022-07-31T01:25:27Z",
+      "open_issues": 0,
       "owner": "alelopes",
       "repo": "awesome-rgbd-datasets",
-      "stars": 291
+      "stars": 291,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "datasets",
+        "depth",
+        "depth-estimation",
+        "lidar",
+        "rgb-d",
+        "survey"
+      ]
     },
     "original_repository_sha": "9fa580e66306810032f3090003857f5d73653e49",
     "enhanced_repository": "enhansome/enhansome-rgbd-datasets",
