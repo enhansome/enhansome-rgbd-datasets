@@ -105,7 +105,7 @@
             "open_issues": 0,
             "owner": "apple",
             "repo": "ml-hypersim",
-            "stars": 2045,
+            "stars": 2047,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
@@ -308,7 +308,7 @@
             "open_issues": 4,
             "owner": "KexianHust",
             "repo": "Structure-Guided-Ranking-Loss",
-            "stars": 194,
+            "stars": 195,
             "topics": [
               "cvpr2020",
               "monocular-depth-estimation"
@@ -350,10 +350,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T08:28:07Z",
-            "open_issues": 1989,
+            "open_issues": 1990,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38693,
+            "stars": 38695,
             "topics": [
               "ai",
               "machine-learning",
@@ -420,7 +420,7 @@
             "open_issues": 12,
             "owner": "sniklaus",
             "repo": "3d-ken-burns",
-            "stars": 1569,
+            "stars": 1570,
             "topics": [
               "cuda",
               "cupy",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:52:02.691Z",
+    "last_updated": "2026-09-06T14:11:23.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains information for the paper \"A Survey on RGB-D Datasets\" and is a collaborative initiative to update the datasets list faster.",
