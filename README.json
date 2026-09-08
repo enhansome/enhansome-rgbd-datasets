@@ -349,11 +349,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T16:12:34Z",
+            "last_commit": "2026-09-08T09:22:17Z",
             "open_issues": 1990,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38707,
+            "stars": 38712,
             "topics": [
               "ai",
               "machine-learning",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:27:38.362Z",
+    "last_updated": "2026-09-08T15:07:01.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains information for the paper \"A Survey on RGB-D Datasets\" and is a collaborative initiative to update the datasets list faster.",
