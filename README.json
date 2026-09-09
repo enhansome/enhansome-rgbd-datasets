@@ -61,7 +61,7 @@
             "open_issues": 74,
             "owner": "valeoai",
             "repo": "WoodScape",
-            "stars": 718,
+            "stars": 719,
             "topics": [
               "dataset"
             ]
@@ -231,7 +231,7 @@
             "open_issues": 2,
             "owner": "dulucas",
             "repo": "Displacement_Field",
-            "stars": 120,
+            "stars": 119,
             "topics": [
               "accurate-occlusion-boundaries",
               "cvpr2020",
@@ -353,7 +353,7 @@
             "open_issues": 1990,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38712,
+            "stars": 38717,
             "topics": [
               "ai",
               "machine-learning",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T15:07:01.862Z",
+    "last_updated": "2026-09-09T15:07:18.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains information for the paper \"A Survey on RGB-D Datasets\" and is a collaborative initiative to update the datasets list faster.",
