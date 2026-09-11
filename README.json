@@ -353,7 +353,7 @@
             "open_issues": 1992,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38722,
+            "stars": 38737,
             "topics": [
               "ai",
               "machine-learning",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T14:59:11.709Z",
+    "last_updated": "2026-09-11T15:02:16.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains information for the paper \"A Survey on RGB-D Datasets\" and is a collaborative initiative to update the datasets list faster.",
@@ -560,7 +560,7 @@
       "open_issues": 0,
       "owner": "alelopes",
       "repo": "awesome-rgbd-datasets",
-      "stars": 290,
+      "stars": 291,
       "topics": [
         "awesome",
         "awesome-list",
