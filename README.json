@@ -101,9 +101,9 @@
             "id": 313435134,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-01-09T22:34:45Z",
+            "last_commit": "2026-09-11T16:00:24Z",
             "open_issues": 0,
-            "owner": "apple",
+            "owner": "apple-aiml-research",
             "repo": "ml-hypersim",
             "stars": 2047,
             "topics": []
@@ -353,7 +353,7 @@
             "open_issues": 1992,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38737,
+            "stars": 38741,
             "topics": [
               "ai",
               "machine-learning",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T15:02:16.281Z",
+    "last_updated": "2026-09-12T14:08:38.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains information for the paper \"A Survey on RGB-D Datasets\" and is a collaborative initiative to update the datasets list faster.",
