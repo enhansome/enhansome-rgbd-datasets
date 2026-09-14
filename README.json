@@ -61,7 +61,7 @@
             "open_issues": 74,
             "owner": "valeoai",
             "repo": "WoodScape",
-            "stars": 719,
+            "stars": 720,
             "topics": [
               "dataset"
             ]
@@ -126,7 +126,7 @@
             "open_issues": 67,
             "owner": "facebookresearch",
             "repo": "Replica-Dataset",
-            "stars": 1325,
+            "stars": 1327,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
@@ -308,7 +308,7 @@
             "open_issues": 4,
             "owner": "KexianHust",
             "repo": "Structure-Guided-Ranking-Loss",
-            "stars": 195,
+            "stars": 196,
             "topics": [
               "cvpr2020",
               "monocular-depth-estimation"
@@ -332,7 +332,7 @@
             "open_issues": 7,
             "owner": "LeiaInc",
             "repo": "holopix50k",
-            "stars": 162,
+            "stars": 163,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
@@ -350,10 +350,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T00:21:25Z",
-            "open_issues": 1992,
+            "open_issues": 1993,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38747,
+            "stars": 38755,
             "topics": [
               "ai",
               "machine-learning",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T14:54:52.982Z",
+    "last_updated": "2026-09-14T16:57:44.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains information for the paper \"A Survey on RGB-D Datasets\" and is a collaborative initiative to update the datasets list faster.",
