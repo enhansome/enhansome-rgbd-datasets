@@ -350,10 +350,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-16T19:46:42Z",
-            "open_issues": 1994,
+            "open_issues": 1995,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38788,
+            "stars": 38792,
             "topics": [
               "ai",
               "machine-learning",
@@ -420,7 +420,7 @@
             "open_issues": 12,
             "owner": "sniklaus",
             "repo": "3d-ken-burns",
-            "stars": 1571,
+            "stars": 1572,
             "topics": [
               "cuda",
               "cupy",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T14:59:24.376Z",
+    "last_updated": "2026-09-19T14:25:39.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains information for the paper \"A Survey on RGB-D Datasets\" and is a collaborative initiative to update the datasets list faster.",
