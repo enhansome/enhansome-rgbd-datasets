@@ -185,7 +185,7 @@
             "id": 223414731,
             "language": null,
             "license": null,
-            "last_commit": "2025-09-08T02:21:12Z",
+            "last_commit": "2026-10-03T12:01:08Z",
             "open_issues": 30,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
@@ -353,7 +353,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38863,
+            "stars": 38868,
             "topics": [
               "ai",
               "machine-learning",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:05:09.682Z",
+    "last_updated": "2026-10-03T15:08:30.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains information for the paper \"A Survey on RGB-D Datasets\" and is a collaborative initiative to update the datasets list faster.",
