@@ -353,7 +353,7 @@
             "open_issues": 1997,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38874,
+            "stars": 38877,
             "topics": [
               "ai",
               "machine-learning",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:30:07.623Z",
+    "last_updated": "2026-10-06T17:11:25.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains information for the paper \"A Survey on RGB-D Datasets\" and is a collaborative initiative to update the datasets list faster.",
