@@ -353,7 +353,7 @@
             "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38925,
+            "stars": 38927,
             "topics": [
               "ai",
               "machine-learning",
@@ -420,7 +420,7 @@
             "open_issues": 12,
             "owner": "sniklaus",
             "repo": "3d-ken-burns",
-            "stars": 1575,
+            "stars": 1576,
             "topics": [
               "cuda",
               "cupy",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T15:22:31.246Z",
+    "last_updated": "2026-10-17T14:12:54.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains information for the paper \"A Survey on RGB-D Datasets\" and is a collaborative initiative to update the datasets list faster.",
