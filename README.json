@@ -126,7 +126,7 @@
             "open_issues": 67,
             "owner": "facebookresearch",
             "repo": "Replica-Dataset",
-            "stars": 1345,
+            "stars": 1346,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
@@ -353,7 +353,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39096,
+            "stars": 39101,
             "topics": [
               "ai",
               "machine-learning",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T20:46:56.737Z",
+    "last_updated": "2026-11-03T18:27:20.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains information for the paper \"A Survey on RGB-D Datasets\" and is a collaborative initiative to update the datasets list faster.",
