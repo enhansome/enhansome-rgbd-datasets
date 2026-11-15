@@ -61,7 +61,7 @@
             "open_issues": 75,
             "owner": "valeoai",
             "repo": "WoodScape",
-            "stars": 725,
+            "stars": 726,
             "topics": [
               "dataset"
             ]
@@ -105,7 +105,7 @@
             "open_issues": 0,
             "owner": "apple-aiml-research",
             "repo": "ml-hypersim",
-            "stars": 2073,
+            "stars": 2074,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
@@ -353,7 +353,7 @@
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39174,
+            "stars": 39180,
             "topics": [
               "ai",
               "machine-learning",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T17:08:39.008Z",
+    "last_updated": "2026-11-15T17:42:36.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains information for the paper \"A Survey on RGB-D Datasets\" and is a collaborative initiative to update the datasets list faster.",
