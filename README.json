@@ -40,7 +40,7 @@
             "open_issues": 17,
             "owner": "TRI-ML",
             "repo": "DDAD",
-            "stars": 562,
+            "stars": 563,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
@@ -189,7 +189,7 @@
             "open_issues": 30,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
-            "stars": 689,
+            "stars": 690,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
@@ -349,11 +349,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T15:52:19Z",
+            "last_commit": "2026-11-20T12:12:08Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39233,
+            "stars": 39245,
             "topics": [
               "ai",
               "machine-learning",
@@ -420,7 +420,7 @@
             "open_issues": 2,
             "owner": "sniklaus",
             "repo": "3d-ken-burns",
-            "stars": 1580,
+            "stars": 1579,
             "topics": [
               "cuda",
               "cupy",
@@ -538,7 +538,7 @@
             "open_issues": 17,
             "owner": "TRI-ML",
             "repo": "DDAD",
-            "stars": 562,
+            "stars": 563,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T19:29:24.961Z",
+    "last_updated": "2026-11-20T19:06:01.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains information for the paper \"A Survey on RGB-D Datasets\" and is a collaborative initiative to update the datasets list faster.",
