@@ -105,7 +105,7 @@
             "open_issues": 0,
             "owner": "apple-aiml-research",
             "repo": "ml-hypersim",
-            "stars": 2077,
+            "stars": 2079,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
@@ -189,7 +189,7 @@
             "open_issues": 30,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
-            "stars": 690,
+            "stars": 689,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:36.832Z"
@@ -328,7 +328,7 @@
             "id": 246948939,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2022-07-07T20:32:50Z",
+            "last_commit": "2026-11-24T19:42:40Z",
             "open_issues": 7,
             "owner": "LeiaInc",
             "repo": "holopix50k",
@@ -349,11 +349,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T18:01:17Z",
+            "last_commit": "2026-11-24T04:17:47Z",
             "open_issues": 2014,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39268,
+            "stars": 39279,
             "topics": [
               "ai",
               "machine-learning",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T22:39:04.597Z",
+    "last_updated": "2026-11-24T21:11:20.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains information for the paper \"A Survey on RGB-D Datasets\" and is a collaborative initiative to update the datasets list faster.",
