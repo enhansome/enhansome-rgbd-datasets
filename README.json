@@ -61,7 +61,7 @@
             "open_issues": 75,
             "owner": "valeoai",
             "repo": "WoodScape",
-            "stars": 727,
+            "stars": 728,
             "topics": [
               "dataset"
             ]
@@ -349,11 +349,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T19:51:43Z",
-            "open_issues": 2016,
+            "last_commit": "2026-11-26T08:37:24Z",
+            "open_issues": 2020,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39397,
+            "stars": 39515,
             "topics": [
               "ai",
               "machine-learning",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T20:28:30.221Z",
+    "last_updated": "2026-11-26T20:11:15.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains information for the paper \"A Survey on RGB-D Datasets\" and is a collaborative initiative to update the datasets list faster.",
